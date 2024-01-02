@@ -17,6 +17,12 @@
     scroll-behavior: smooth;
     font-family: Poppins;
 }
+.transparent-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
 .bg-black{
     background-color: var(--dark) !important;
 }
@@ -55,7 +61,7 @@
 .hero h1{
     font-size: 40px;
     font-weight: bold;
-    line-height: 25px;
+    line-height: 35px;
     text-align: center;
 }
 .button-container button{

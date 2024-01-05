@@ -17,6 +17,7 @@
     scroll-behavior: smooth;
     font-family: Poppins;
 }
+
 .transparent-btn {
     background: none;
     border: none;
@@ -71,6 +72,7 @@
     position: relative;
     height: 100vh;
     background-color: var(--background);
+    overflow-x: hidden;
 }
 .stats i{
     font-size: 3rem;
